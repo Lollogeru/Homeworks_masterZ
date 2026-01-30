@@ -8,4 +8,4 @@ Il link per vedere lo Smart Contract è il seguente: https://amoy.polygonscan.co
 
 Nel file ERC1155.sol ho creato uno smart contract con 5 assets utilizzabili in un ipotetico gioco di sopravvivenza, come un arco, delle frecce, un elmetto, delle mele, e delle bottiglie d'acqua.
 Lo Smart Contract è visualizzabile al seguente link: https://amoy.polygonscan.com/token/0xB0984933cB730dacC754594c6AcC43d71E6E47A2
- 
+La visualizzazione degli NFTs è ancora in fase di sviluppo, perché su polygonscan non viene fornita, mentre OpenSea ha disabilitato la relativa funzione per le testnet.
